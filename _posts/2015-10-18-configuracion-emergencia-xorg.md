@@ -17,7 +17,7 @@ Para comprobar que realmente este es el problema, tengo una **configuración de 
 Para instalarlo ejecuta en tu consola:
 
 {% highlight bash %}
-curl https://raw.githubusercontent.com/arkeros/dotfiles/master/etc/X11/xorg.emergency.conf > xorg.emergency.conf
+curl https://raw.githubusercontent.com/arkeros/dotfiles/master/xorg/xorg.emergency.conf > xorg.emergency.conf
 sudo cp xorg.emergency.conf /etc/X11/xorg.conf
 sudo reboot
 {% endhighlight %}
