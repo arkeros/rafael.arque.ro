@@ -14,6 +14,11 @@
     {% endif %}
   </title>
 
+  {% if author.google_plus %}
+    <!-- Link to the authors Google page. -->
+    <link rel="author" href="{{ author.google_plus }}?rel=author" />
+  {% endif %}
+
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
