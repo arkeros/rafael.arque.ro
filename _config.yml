@@ -15,7 +15,10 @@ baseurl:          /
 
 author:
   name:           'Rafael Arquero Gimeno'
-  url:            https://rafael.arque.ro
+  url:            http://rafael.arque.ro
+  resume:		  https://github.com/arkeros/resume/raw/master/main.pdf
+  email: 		  rafael@arque.ro
+  google_plus:    https://plus.google.com/+RafaelArqueroGimeno
 
 paginate:         5
 
