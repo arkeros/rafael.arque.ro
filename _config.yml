@@ -27,3 +27,6 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/arkeros/rafael.arque.ro
+  
+gems:
+  - jekyll-sitemap
