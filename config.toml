@@ -1,7 +1,7 @@
 baseurl = "http://rafael.arque.ro/"
 title = "rafael.arque.ro"
 languageCode = "en-US"
-theme = "hugo_theme_robust"
+theme = "casper"
 
 Copyright = "All rights reserved (2015-2016)"
 
