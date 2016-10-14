@@ -1,0 +1,16 @@
+baseurl = "http://rafael.arque.ro/"
+title = "rafael.arque.ro"
+languageCode = "en-US"
+
+Copyright = "All rights reserved (2015-2016)"
+
+[params]
+  description = "22 years. Redhead. Studying Mathematics and Computer Science at the UB. Creator of Omegan."
+  cover = "img/cover-nyc.jpg"
+  author = "Rafael Arquero"
+  authorlocation = "Barcelona, Spain"
+  authorwebsite = "http://rafael.arque.ro"
+  bio= "Dad, developer, Googler in Seattle."
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  githubName = "arkeros"
+  twitterName = "_arkeros"
