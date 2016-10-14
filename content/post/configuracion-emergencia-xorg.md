@@ -3,6 +3,7 @@ title = "Configuración de emergencia para Xorg"
 draft = false
 date = "2015-10-18T01:29:44+02:00"
 tags = ["linux", "nvidia"]
+comments = true
 +++
 
 Suele pasar que después de una actualización grande tu [Linux](https://es.wikipedia.org/wiki/GNU/Linux) no arranque debidamente. Puede que se deba a que no se satisfacen algunas dependencias, o que tu configuración de arranque esta buscando algo que no existe. Pero normalmente simple y llanamente te quedas con una bonita **pantalla en negro** sin poder hacer nada.

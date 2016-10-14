@@ -3,6 +3,7 @@ title = "rafael.arque.ro"
 languageCode = "en-US"
 theme = "casper"
 
+DisqusShortname = "rafael-arquero"
 Copyright = "All rights reserved (2015-2016)"
 
 [params]
