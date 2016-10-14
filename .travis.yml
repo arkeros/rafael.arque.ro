@@ -9,7 +9,7 @@ deploy:
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
   bucket: rafael.arque.ro
-  region: Frankfurt
+  region: eu.central-1
   endpoint: rafael.arque.ro.s3-website.eu-central-1.amazonaws.com
   local-dir: public
   skip_cleanup: true
